@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "KW - Alyfe",
+    "slug": "kw-app",
+    "version": "1.2.4",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-kw.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.66cedric.lopez.kwapp"
+    },
+    "android": {
+      "permissions": [
+        "INTERNET"
+      ],
+      "versionCode": 11,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kw.mymarketing"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9d67805e-2b81-422e-9a30-f6cd6c7f0d63"
+      }
+    }
+  }
+}
