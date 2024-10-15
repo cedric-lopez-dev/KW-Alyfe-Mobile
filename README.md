@@ -1,6 +1,6 @@
 # KW ALYFE
 
-This mobile application, developed for Android and iOS using `React Native` and `Expo Go`, allows agents of the `KW France`## network to connect to a dedicated space using their KW credentials.
+This mobile application, developed for Android and iOS using `React Native` and `Expo Go`, allows agents of the `KW France` network to connect to a dedicated space using their KW credentials.
 
 ## Key Features:
 
